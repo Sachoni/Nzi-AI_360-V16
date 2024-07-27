@@ -6,8 +6,7 @@
 </p>
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
- 
-<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+
 <p align="center">
   <a href="https://youtube.com/">
     <img alt="Nzi-AI_360-v16" height="400" src="/.github/Pk Kenya.jpg">
