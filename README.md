@@ -1,13 +1,19 @@
 <h1 align="center"> Nzi-AI_360-V16</h1> 
 <p align="center">
   <a href="https://youtube.com/">
-    <img alt="Suhail-Md" height="400" src="/.github/Pk Kenya.jpg">
+    <img alt="Nzi-AI_360-v16" height="400" src="/.github/Pk Kenya.jpg">
   </a>
 </p>
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
 <h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<p align="center">
+  <a href="https://youtube.com/">
+    <img alt="Nzi-AI_360-v16" height="400" src="/.github/Pk Kenya.jpg">
+  </a>
+</p>
+<p align="center"> Proudly made in Kenya🇰🇪🇰🇪🇰🇪 </p>
 
 <h4 align="center"> ✔️ Fixed Heroku Ban! ✔️</h4> 
 
