@@ -15,10 +15,31 @@
 <p align="center"> Proudly made in Kenya🇰🇪🇰🇪🇰🇪 </p>
 
 <h4 align="center"> ✔️ Fixed Heroku Ban! ✔️</h4> 
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HTML</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <ul>
+    <li>y</li>
+    <li>o</li>
+    <li>u</li>
+    <li>r</li>
+    <li>t</li>
+    <li>e</li>
+    <li>x</li>
+    <li>t</li>
+  </ul>
+  <script src="main.js"></script>
+</body>
+</html>
 
 ---
-
 
 
 
