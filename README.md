@@ -82,28 +82,6 @@
 <p align="center">Need help? please create an <a href="https://github.com/SuhailTechInfo/Suhail-Md/issues">issue</a></p>
 
  
-
-
-
-## Bot Games
----
-1. ***Connect Four Game.***
-2.  ***Tic Tac Toe.***
-3.  ***Number Guessing Game.***
-4.  ***Word chain Game.***
-5.  ***Hidden Card Game.***
-6.  ***Rolling Dice.***
-7.  ***Character Guessing Game.***
-8.  ***Capital of City Finding.***
-##
-
-
- 
-
-
-
-
-    
    
 ## Deployment Methods
 ---
@@ -145,10 +123,10 @@
    
 ## 
 
-- *Nzi-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Nzi-Md is not made by `from Android studio.` Sometimes or misusing the bot might `ban` your `accounts !`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Nzi-Md at your own risk by keeping this warning in mind.*
 
 
 
-## NOTE: Nzi-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
+## NOTE:  Nzi-AI_360-V16 IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
