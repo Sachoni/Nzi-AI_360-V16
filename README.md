@@ -1,4 +1,4 @@
-<h1 align="center"> Nzi Md </h1> 
+<h1 align="center"> Nzi-AI_360-V16</h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
