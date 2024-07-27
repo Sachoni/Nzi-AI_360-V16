@@ -47,9 +47,9 @@
    
 ## 
 
-- *Nzi-Md is not made by `from Android studio.` Sometimes or misusing the bot might `ban` your `accounts !`*
+- *Nzi-AI_360-V16 is not made by `from Android studio.` Sometimes or misusing the bot might `ban` your `accounts !`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Nzi-Md at your own risk by keeping this warning in mind.*
+- *Use Nzi-AI_360-V16 at your own risk by keeping this warning in mind.*
 
 
 
