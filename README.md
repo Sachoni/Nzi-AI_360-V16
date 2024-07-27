@@ -33,7 +33,7 @@
 7.  ***Deploy on [`Railway`](https://suhail-web01.vercel.app/deploy?platform=railway). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
 8.  ***Deploy on [`Koyeb`](https://suhail-web01.vercel.app/deploy?platform=koyeb)***
 9. ***Deploy on [`Glitch`](https://suhail-web01.vercel.app/deploy?platform=glitch)***
-10. ***Deploy on [`RENDER`](https://suhail-web01.vercel.app/deploy?on=render)***
+10. ***Deploy on [`RENDER`]([https://suhail-](https://spck.io/labs/eNsMU26wc)***
 10. ***Get [`More Plugins`]([https://spck.io/labs/eNsMU26wc])***
 ##
 
