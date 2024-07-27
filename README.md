@@ -1,6 +1,10 @@
 <h1 align="center"> Nzi-AI_360-V16</h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
-
+<p align="center">
+  <a href="https://youtube.com/">
+    <img alt="Suhail-Md" height="400" src="/lib/assets/Pk Kenya.jpg">
+  </a>
+</p>
  
 <h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
