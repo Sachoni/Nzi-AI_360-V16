@@ -27,10 +27,8 @@
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-[[vtsf](https://spck.io/labs/eNsMU26wc).onrender.com/](https://spck.io/labs/eNsMU26wc)) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
 3.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` for Courage.***
-4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-5.  ***Deploy on [`HEROKU`](https://spck.io/labs/eNsMU26wc)).  `FIXED! ✔️`***
- ##
-
+4.  ***Deploy FREE on `Codespace,` 
+##
  <details close>
 <summary>RENDER DEPLOY PROCESS</summary>
    
