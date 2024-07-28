@@ -1,7 +1,7 @@
 <h1 align="center"> Nzi-AI_360-V16</h1> 
 <p align="center">
-  <a href="https://youtube.com/">
-    <img alt="Nzi-AI_360-v16" height="400" src="/.github/Nzi MD pic.png">
+  <a href="">
+    <img alt="Nzi-AI_360-v16" height="400" src="/Library/Nzi MD pic.png">
   </a>
 </p>
 <p align="center"> Integrated AI bot with rich features. </p>
