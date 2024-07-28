@@ -15,10 +15,6 @@
 <p align="center"> Proudly made in Kenya🇰🇪🇰🇪🇰🇪 </p>
 
 ---
-
-
-
-## Deployment Methods
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-[[vtsf](https://spck.io/labs/eNsMU26wc).onrender.com/](https://spck.io/labs/eNsMU26wc)) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
