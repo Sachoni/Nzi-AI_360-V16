@@ -14,6 +14,7 @@
 </p>
 <p align="center"> Proudly made in Kenya🇰🇪🇰🇪🇰🇪 </p>
 
+
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-[[vtsf](https://spck.io/labs/eNsMU26wc).onrender.com/](https://spck.io/labs/eNsMU26wc)) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
@@ -30,11 +31,17 @@
     5: And JUST CLICK "Connect". 
    </details>
 
-
 ---
 
 
 - Star ⭐ repo if you like this bot.
+<p align="center">
+  <a href="https://youtube.com/">
+    <img alt="Nzi-AI_360-v16" height="400" src="Library/Pk Kenya.jpg">
+  </a>
+</p>
+<p align="center"> Proudly made in Kenya🇰🇪🇰🇪🇰🇪 </p>
+
 
 
 <h2 align="center"> ⚠️ NOTE  </h2>
