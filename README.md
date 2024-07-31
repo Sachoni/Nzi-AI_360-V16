@@ -14,7 +14,11 @@
 </p>
 <p align="center"> Proudly made in Kenya🇰🇪🇰🇪🇰🇪 </p>
 
-
+<video width="320" height="240" autoplay muted>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-[[vtsf](https://spck.io/labs/eNsMU26wc).onrender.com/](https://spck.io/labs/eNsMU26wc)) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
